@@ -25,7 +25,7 @@ git clone https://github.com/yourusername/musa-pokedex.git
 2. Change the directory to the project folder:
 
 ```bash
-cd musa-pokedex
+cd pokedex
 ```
 
 ### Usage
