@@ -1,6 +1,6 @@
 # Pokedex
 
-A simple Python application using the pypokedex library and the tkinter GUI framework to display information about Pokémon. You can enter the name or ID of a Pokémon, and the application will retrieve and display details such as its image, type, base stats, weight, height, and abilities.
+A simple Python application using the pypokedex library and the tkinter GUI framework to display information about Pokémon. You can enter the name or ID of a Pokémon, and the application will retrieve and display details such as its image, type, base stats, weight, height, and abilities also their shiny forms.
 
 ## Getting Started
 
@@ -37,6 +37,7 @@ python pokedex.py
 ```
 
 Enter the name or ID of a Pokémon and click the "Load Pokémon" button to retrieve and display its information.
+Click Toggle Shiny Button to retrieve and display their shiny forms.
 
 ### Example
 
